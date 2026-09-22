@@ -1,4 +1,5 @@
 # EX 3A N Queens Problem - Backtracking Approach.
+# DATE: 19/8/2026
 
 ## AIM:
 To Write a Java program for N queens using the backtracking approach.
@@ -28,6 +29,10 @@ If there is no solution to the problem,  print  "Solution does not exist"
 5. Print the board if all queens are placed, display “No solution exists.”   
 
 ## Program:
+```
+Developed by: OVIYA N
+Register Number: 212223040140
+```
 ```
 
 import java.util.Scanner;
